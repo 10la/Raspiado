@@ -1,3 +1,10 @@
+## Raspiado
+
+A USB hub that fits in the space and footprint of the existing Raspberry Pi.  Compatible with the RPi B, RPi B+, and RPi 2.
+
+Power your Pi, add USB ports, and look great doing it!
+
+******************
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chriskaschner/raspiado/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
