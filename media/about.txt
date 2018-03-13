@@ -1,0 +1,23 @@
+RASPIADO
+Besides being made up, raspiado essentially means "raspberried" and is the past participle of raspberry in Spanish.
+
+To form the past participle in Spanish, simply drop the infinitive ending (-ar) and add -ado (for -ar verbs).
+
+So, "to speak" is hablar in Spanish.
+
+hablar - ar + ado = hablado
+
+That translates to "spoken".
+
+10 LETTER ACRONYM
+In engineering there's an old, and somewhat bad, joke that goes
+
+Old, haggard, and seasoned engineer - "there's a lot of TLA's in this business".
+
+FNG - "What's a TLA?"
+
+Old, haggard, and seasoned engineer - "three letter acronym"
+
+CHRIS
+I started 10 Letter Acronym to "scratch my own itch" relating to Raspberry Pi use.  I built a card eating robot for my wedding reception and was always dissapointed with the pile of cables I needed to get an otherwise tiny computer running.  I wanted a way to put everything, including the USB hub, into the space of the RPi.
+
